@@ -14,13 +14,13 @@ choosing and sorting their common and unique lines in different combinations.
 
 This software doesn't require installation, simply run the executable file.
 
-## Written With
+## Written with
 
 * C#
 * WinForms
 * [Microsoft Visual Studio Community 2019 (Version 16.1.6)](https://visualstudio.microsoft.com/)
 
-## Tested Configuration
+## Tested configuration
 MS Windows 10 Pro x64 (build 18362.356)
 
 ## Author
