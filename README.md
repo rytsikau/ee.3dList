@@ -4,7 +4,7 @@ This utility allows to make a selection of data from two textual files,
 choosing and sorting their common and unique lines in different combinations.
 
 ## Version
-1.1.7210.15422
+1.1.7210.28637
 
 ## System requirements
 
