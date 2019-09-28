@@ -5,7 +5,6 @@ choosing and sorting their common and unique lines in different combinations.
 
 ## Version
 1.1.7210.15422
-(august-september 2019)
 
 ## System requirements
 
