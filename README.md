@@ -27,7 +27,3 @@ MS Windows 10 Pro x64 (build 18362.356)
 ## Author
 
 * [**Yauheni Rytsikau**](https://github.com/rytsikau)
-
-## License
-
-See the [License.txt](License.txt) file for details
