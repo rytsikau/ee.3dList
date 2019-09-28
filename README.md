@@ -25,7 +25,7 @@ MS Windows 10 Pro x64 (build 18362.356)
 
 ## Author
 
-* **Yauheni Rytsikau** [E-mail](y.rytsikau@gmail.com)
+* **Yauheni Rytsikau** [page](https://github.com/rytsikau)
 
 ## License
 
