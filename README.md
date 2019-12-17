@@ -1,6 +1,6 @@
 # ee.3dList
 
-This utility allows to make a selection of data from two textual files,
+This utility written in C# allows you to make a selection of data from two textual files,
 choosing and sorting their common and unique lines in different combinations.
 
 ## Version
