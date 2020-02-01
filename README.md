@@ -1,7 +1,7 @@
 # ee.3dList
 
 This tool allows to make a selection of data from two text files,
-choosing and sorting their common and unique lines in different combinations.
+choosing and sorting their common and unique lines in different combinations
 
 ## Version
 1.1 (september, 2019)
@@ -12,7 +12,7 @@ choosing and sorting their common and unique lines in different combinations.
 
 ## Installation
 
-This software doesn't require installation, simply run the executable file.
+This software doesn't require installation, simply run the executable file
 
 ## Written with
 
