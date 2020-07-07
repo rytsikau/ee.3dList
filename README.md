@@ -1,5 +1,8 @@
-# ee.3dList - version 1.1 (20190928)
+# ee.3dList
+
 This application allows to make a selection of data from two text files, choosing and sorting their common and unique lines in different combinations
+
+[>> download version 1.1 (20190928)](https://github.com/rytsikau/ee.3dList/archive/master.zip)<br><br><br>
 
 ## Requirements
 * Microsoft Windows XP+ or Microsoft Windows Server 2003+
