@@ -1,28 +1,17 @@
-# ee.3dList
+# ee.3dList - version 1.1 (20190928)
+This application allows to make a selection of data from two text files, choosing and sorting their common and unique lines in different combinations
 
-This tool allows to make a selection of data from two text files,
-choosing and sorting their common and unique lines in different combinations
+## Requirements
+* Microsoft Windows XP+ or Microsoft Windows Server 2003+
 
-## Version
-1.1 (september, 2019)
+## Tested Configuration
+* Microsoft Windows 10 Pro x64 18362
 
-## System requirements
-
-.NET Framework 4.0 (Windows Vista and later, Windows Server 2003 and later)
-
-## Installation
-
-This software doesn't require installation, simply run the executable file
-
-## Written with
-
+## Developer information
 * C#
 * WinForms
-* [Microsoft Visual Studio Community 2019 (Version 16.1.6)](https://visualstudio.microsoft.com/)
-
-## Tested configuration
-MS Windows 10 Pro x64 (build 18362.356)
+* .NET Framework 4.0
+* Microsoft Visual Studio Community 2019 (version 16.1.6)
 
 ## Author
-
-* [**Yauheni Rytsikau**](https://github.com/rytsikau)
+* [**Yauheni Rytsikau (Eugen Rytikov)**](https://github.com/rytsikau)
