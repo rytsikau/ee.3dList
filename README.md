@@ -15,6 +15,9 @@ This application allows to make a selection of data from two text files, choosin
 * .NET Framework 4.0
 * Microsoft Visual Studio Community 2019
 
+## Program screenshot
+<img src="https://raw.githubusercontent.com/rytsikau/ee.3dList/master/Program%20screenshot.png">
+
 ## Author
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
