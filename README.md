@@ -16,6 +16,7 @@ This application allows to make a selection of data from two text files, choosin
 * Microsoft Visual Studio Community 2019
 
 ## Author
-(c) 2019-2020 Yauheni Rytsikau  
+[(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
+
 #
 [rytsikau.github.io](https://rytsikau.github.io)
