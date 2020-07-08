@@ -3,6 +3,9 @@ This application allows to make a selection of data from two text files, choosin
 
 [>> download version 1.2](https://github.com/rytsikau/ee.3dList/raw/master/ee.3dList_1.2.zip)
 
+## Program screenshot
+<img src="https://raw.githubusercontent.com/rytsikau/ee.3dList/master/Program%20screenshot.png">
+
 ## Requirements
 * Microsoft Windows XP+ or Microsoft Windows Server 2003+
 
@@ -14,9 +17,6 @@ This application allows to make a selection of data from two text files, choosin
 * WinForms
 * .NET Framework 4.0
 * Microsoft Visual Studio Community 2019
-
-## Program screenshot
-<img src="https://raw.githubusercontent.com/rytsikau/ee.3dList/master/Program%20screenshot.png">
 
 ## Author
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
