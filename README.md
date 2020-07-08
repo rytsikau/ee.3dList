@@ -3,8 +3,6 @@ This application allows to make a selection of data from two text files, choosin
 
 [>> download version 1.1 (20190928)](https://github.com/rytsikau/ee.3dList/archive/master.zip)
 
-
-
 ## Requirements
 * Microsoft Windows XP+ or Microsoft Windows Server 2003+
 
