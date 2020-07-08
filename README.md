@@ -17,4 +17,6 @@ This application allows to make a selection of data from two text files, choosin
 
 ## Author
 (c) 2019-2020 Yauheni Rytsikau  
-[page](https://rytsikau.github.io) / [e-mail](mailto:y.rytsikau@gmail.com)
+[e-mail](mailto:y.rytsikau@gmail.com)
+#
+[rytsikau.github.io](https://rytsikau.github.io)
