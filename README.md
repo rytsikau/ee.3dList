@@ -18,8 +18,11 @@ This application allows to make a selection of data from two text files, choosin
 * .NET Framework 4.0
 * Microsoft Visual Studio Community 2019
 
+## Tags
+duplicate-detection duplicate-lines text text-analysis text-comparator text-compare text-comparison text-generation text-mining text-processing text-sort unique-lines
+
 ## Author
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
 ---
-[rytsikau.github.io](https://rytsikau.github.io)
+[>> program page on https://github.io](https://rytsikau.github.io/ee.3dList)
