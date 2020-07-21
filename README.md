@@ -24,6 +24,5 @@ duplicate-detection duplicate-lines text text-analysis text-comparator text-comp
 ## Author
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
-
 ---
 [[program page]](https://rytsikau.github.io/ee.3dList) [[start page]](https://rytsikau.github.io)
