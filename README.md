@@ -26,6 +26,4 @@ duplicate-detection duplicate-lines text text-analysis text-comparator text-comp
 
 
 ---
-[[program page]](https://rytsikau.github.io/ee.3dList)
-
-[[start page]](https://rytsikau.github.io)
+[[program page]](https://rytsikau.github.io/ee.3dList) [[start page]](https://rytsikau.github.io)
