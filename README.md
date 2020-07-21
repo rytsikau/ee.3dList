@@ -3,6 +3,7 @@ This application allows to make a selection of data from two text files, choosin
 
 [>> download version 1.2](https://github.com/rytsikau/ee.3dList/raw/master/ee.3dList_1.2.zip)
 
+
 ## Program screenshot
 <img src="https://raw.githubusercontent.com/rytsikau/ee.3dList/master/Program%20screenshot.png">
 
@@ -24,6 +25,8 @@ duplicate-detection duplicate-lines text text-analysis text-comparator text-comp
 ## Author
 [(c) 2019-2020 Yauheni Rytsikau](mailto:y.rytsikau@gmail.com)
 
+
 ---
 [>> program page](https://rytsikau.github.io/ee.3dList)
+
 [>> start page](https://rytsikau.github.io)
