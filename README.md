@@ -2,7 +2,8 @@
 
 This application extracts data from two texts by selecting and sorting their common and unique lines in various combinations.
 
-### [>> download version 1.2](https://github.com/rytsikau/ee.3dList/raw/master/ee.3dList_1.2.zip)
+### [>> download version 1.2](https://github.com/rytsikau/ee.3dList/raw/master/ee.3dList_1.2.zip)<br><br><br>
+
 
 
 ## Program screenshot
@@ -10,14 +11,17 @@ This application extracts data from two texts by selecting and sorting their com
 <img src='https://github.com/rytsikau/ee.3dList/raw/master/screenshot.png'>
 
 
+
 ## Requirements
 
 * Windows XP and on / Windows Server 2003 and on
 
 
+
 ## Tested Configuration
 
 * Windows 10 Pro x64 version 1903
+
 
 
 ## Developer info
@@ -28,9 +32,11 @@ This application extracts data from two texts by selecting and sorting their com
 * Visual Studio Community 2019
 
 
+
 ## Tags
 
 common compare comparison duplicate exclude lines sort subset text unique
+
 
 
 ## Author
