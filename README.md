@@ -30,7 +30,7 @@ This application extracts data from two texts by selecting and sorting their com
 
 ## Tags
 
-texts-compare texts-comparison common-lines duplicate-lines exclude-lines sort-lines unique-lines
+common compare comparison duplicate exclude lines sort subset text unique
 
 
 ## Author
